@@ -1,2 +1,2 @@
 # Flipping Card
-Flipping Card/result.gif
+![alt text](result.gif)
