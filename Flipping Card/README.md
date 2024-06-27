@@ -1,2 +1,2 @@
 # Flipping Card
-![alt text](<Flipping Card/202403152038.gif>)
+![alt text](202403152038.gif)
